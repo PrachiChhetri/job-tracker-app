@@ -22,12 +22,12 @@ This application provides following features to the users:
 
 __Tech Stack Used__
 
-| Layer       | Technology            |
-|-------------|------------------------|
-| Frontend    | React, Axios, CSS      |
-| Backend     | Node.js, Express       |
-| Database    | MongoDB, Mongoose      |
-| Auth        | JWT (JSON Web Token)   |
+| Layer       | Technology                   |
+|-------------|------------------------------|
+| Frontend    | React, HTML, CSS, javaScript |     |
+| Backend     | Node.js, Express             |
+| Database    | MongoDB                      |
+| Auth        | JWT (JSON Web Token)         |
 
 
 ## Screenshots
